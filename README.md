@@ -25,6 +25,6 @@ A web-based application designed to manage student records, track attendance, an
 3. Manage grades and generate transcripts
 4. Analyze student data and generate insights
 
-**Contributing**
+**Contributing**:
 Contributions are welcome! Please submit pull requests or issues to improve the system.
 
